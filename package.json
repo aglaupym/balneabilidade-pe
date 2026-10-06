@@ -1,0 +1,11 @@
+{
+  "name": "balneabilidade-ne1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Informativo de balneabilidade (CPRH) em PDF ou print -> CSV para o gráfico do After Effects",
+  "scripts": {
+    "start": "node dev-server.js",
+    "dev": "node dev-server.js"
+  },
+  "engines": { "node": ">=18" }
+}
